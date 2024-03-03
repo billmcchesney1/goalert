@@ -60,11 +60,12 @@ require (
 	github.com/vbauerster/mpb/v4 v4.11.2
 	github.com/vektah/gqlparser/v2 v2.1.0
 	go.opencensus.io v0.22.2
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/net v0.0.0-20200822124328-c89045814202
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.2.0
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sys v0.0.0-20200323222414-85ca7c5b95cd
-	golang.org/x/tools v0.0.0-20201013174405-d88ec18c69c7
+	golang.org/x/sys v0.2.0
+	golang.org/x/tools v0.1.12
+	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/genproto v0.0.0-20200305110556-506484158171 // indirect
 	gopkg.in/ini.v1 v1.51.1 // indirect
 	gopkg.in/square/go-jose.v2 v2.4.0 // indirect
