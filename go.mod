@@ -33,9 +33,9 @@ require (
 	github.com/graphql-go/graphql v0.7.8
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/hashicorp/yamux v0.0.0-20190923154419-df201c70410d
-	github.com/jackc/pgconn v1.7.2
-	github.com/jackc/pgtype v1.6.1
-	github.com/jackc/pgx/v4 v4.9.2
+	github.com/jackc/pgconn v1.14.3
+	github.com/jackc/pgtype v1.14.0
+	github.com/jackc/pgx/v4 v4.18.2
 	github.com/jmespath/go-jmespath v0.3.0
 	github.com/joho/godotenv v1.3.0
 	github.com/mattn/go-colorable v0.1.6
@@ -52,7 +52,7 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/spf13/viper v1.6.2
-	github.com/stretchr/testify v1.5.1
+	github.com/stretchr/testify v1.8.1
 	github.com/ttacon/builder v0.0.0-20170518171403-c099f663e1c2 // indirect
 	github.com/ttacon/libphonenumber v1.1.0
 	github.com/uber/jaeger-client-go v2.20.1+incompatible // indirect
@@ -60,11 +60,11 @@ require (
 	github.com/vbauerster/mpb/v4 v4.11.2
 	github.com/vektah/gqlparser/v2 v2.1.0
 	go.opencensus.io v0.22.2
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/net v0.0.0-20200822124328-c89045814202
+	golang.org/x/crypto v0.20.0
+	golang.org/x/net v0.21.0
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sys v0.0.0-20200323222414-85ca7c5b95cd
-	golang.org/x/tools v0.0.0-20201013174405-d88ec18c69c7
+	golang.org/x/sys v0.17.0
+	golang.org/x/tools v0.6.0
 	google.golang.org/genproto v0.0.0-20200305110556-506484158171 // indirect
 	gopkg.in/ini.v1 v1.51.1 // indirect
 	gopkg.in/square/go-jose.v2 v2.4.0 // indirect
